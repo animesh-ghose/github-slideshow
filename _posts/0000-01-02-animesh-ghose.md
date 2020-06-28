@@ -3,4 +3,5 @@ layout: slide
 title: "Welcome to our second slide!"
 ---
 Your text
-Use the left arrow to go back!
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](https://www.ontario.ca/img/logo-ontario@2x.png)
